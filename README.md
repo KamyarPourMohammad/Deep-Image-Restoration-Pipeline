@@ -12,7 +12,7 @@ Corrupted Image
 → Phase 3: Image Classification → Predicted Class + Confidence
 ```
 <p align="center">
-    <img src="results\corrupted_image.jpg" width="40%" alt="Lite / Ultimate Download Banner">
+    <img src="results/corrupted_image.jpg" width="40%" alt="corrupted image">
     
 </p>
 <p align="center">
@@ -24,7 +24,7 @@ Corrupted Image
 For phase one I have downloaded <a href="https://www.kaggle.com/models/aastha2807/denoising?select=denoising_model.h5">denosing_model.h5</a> and used this pretrained tensorflow model.finally it asisst me to remove salt-and-pepper noise while preserving image structure.
 here is my output:
 <p align="center">
-    <img src="results\phase1_denoised.jpg" width="40%" alt="Lite / Ultimate Download Banner">
+    <img src="results/phase1_denoised.jpg" width="40%" alt="phase1 denoised">
     
 </p>
 <p align="center">
